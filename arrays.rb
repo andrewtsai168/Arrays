@@ -14,3 +14,8 @@ bffs = [false, true, true, false]
 #! the index position of the String Andrew is 0.
 #! the value of the element in variable years in index position 2 is 23.
 #! the value of the last element in variable salary is 86.78
+
+#! unshift - add new elemnt to the begining of an array
+#! ex: friends.unshift(Huy) will give me: friends = ["Huy", "Andrew", "Cheuk", "Damir", "Paul"]
+
+friends.unshift(Huy)
